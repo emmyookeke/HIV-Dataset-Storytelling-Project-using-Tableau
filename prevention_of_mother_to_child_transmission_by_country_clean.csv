@@ -1,0 +1,171 @@
+Country,Received Antiretrovirals,Needing antiretrovirals,Percentage Recieved,Needing antiretrovirals_median,Needing antiretrovirals_min,Needing antiretrovirals_max,Percentage Recieved_median,Percentage Recieved_min,Percentage Recieved_max,WHO Region
+Afghanistan,20,200,11,200,100,500,11,7,18,Eastern Mediterranean
+Albania,0,0,0,0,0,0,0,0,0,Europe
+Algeria,320,500,74,500,500,500,74,69,78,Africa
+Angola,9600,25000,38,25000,19000,32000,38,29,48,Africa
+Argentina,1800,1800,95,1800,1600,2000,95,85,95,Americas
+Armenia,50,0,0,0,0,0,0,0,0,Europe
+Australia,0,100,0,100,100,100,0,0,0,Western Pacific
+Austria,0,0,0,0,0,0,0,0,0,Europe
+Azerbaijan,0,0,0,0,0,0,0,0,0,Europe
+Bahamas,50,100,58,100,100,200,58,51,65,Americas
+Bahrain,0,0,0,0,0,0,0,0,0,Eastern Mediterranean
+Bangladesh,40,200,28,200,200,200,28,24,33,South-East Asia
+Barbados,20,0,0,0,0,0,0,0,0,Americas
+Belarus,230,500,90,500,200,500,90,67,95,Europe
+Belgium,0,0,0,0,0,0,0,0,0,Europe
+Belize,40,100,44,100,100,200,44,39,49,Americas
+Benin,4600,2600,95,2600,1600,4300,95,95,95,Africa
+Bhutan,0,0,0,0,0,0,0,0,0,South-East Asia
+Bolivia (Plurinational State of),350,500,95,500,500,500,95,95,95,Americas
+Bosnia and Herzegovina,0,0,0,0,0,0,0,0,0,Europe
+Botswana,12 400,13000,95,13000,10000,14000,95,77,95,Africa
+Brazil,0,0,0,0,0,0,0,0,0,Americas
+Brunei Darussalam,0,0,0,0,0,0,0,0,0,Western Pacific
+Bulgaria,0,0,0,0,0,0,0,0,0,Europe
+Burkina Faso,4700,4900,95,4900,3600,6100,95,71,95,Africa
+Burundi,4000,5000,80,5000,3800,6000,80,61,95,Africa
+Cabo Verde,0,0,0,0,0,0,0,0,0,Africa
+Cambodia,620,730,85,730,600,850,85,71,95,Western Pacific
+Cameroon,21 700,27000,80,27000,21000,32000,80,61,94,Africa
+Canada,0,0,0,0,0,0,0,0,0,Americas
+Central African Republic,3200,4500,71,4500,3300,5800,71,52,91,Africa
+Chad,5600,10000,56,10000,7200,13000,56,40,72,Africa
+Chile,370,500,95,500,500,500,95,95,95,Americas
+China,0,0,0,0,0,0,0,0,0,Western Pacific
+Colombia,490,2300,21,2300,1900,2700,21,17,25,Americas
+Comoros,0,0,0,0,0,0,0,0,0,Africa
+Congo,1000,4100,25,4100,2800,5800,25,17,36,Americas
+Costa Rica,40,0,0,0,0,0,0,0,0,Americas
+Côte d'Ivoire,16 500,18000,90,18000,13000,24000,90,65,95,Africa
+Croatia,0,0,0,0,0,0,0,0,0,Europe
+Cuba,180,200,95,200,200,200,95,86,95,Americas
+Cyprus,0,0,0,0,0,0,0,0,0,Europe
+Czechia,10,0,0,0,0,0,0,0,0,Europe
+Democratic People's Republic of Korea,0,0,0,0,0,0,0,0,0,Western Pacific
+Democratic Republic of the Congo,11 400,26000,44,26000,20000,31000,44,33,52,Africa
+Denmark,0,0,0,0,0,0,0,0,0,Europe
+Djibouti,60,500,30,500,200,500,30,22,39,Eastern Mediterranean
+Dominican Republic,770,910,84,910,690,1200,84,64,95,Americas
+Ecuador,370,500,95,500,500,620,95,68,95,Americas
+Egypt,60,500,16,500,500,500,16,15,18,Eastern Mediterranean
+El Salvador,110,500,40,500,500,500,40,33,46,Americas
+Equatorial Guinea,1300,2600,50,2600,1800,3500,50,35,68,Africa
+Eritrea,230,500,48,500,500,690,48,34,69,Africa
+Estonia,0,0,0,0,0,0,0,0,0,Europe
+Eswatini,8600,11000,79,11000,9000,12000,79,66,89,Africa
+Ethiopia,18 400,20000,92,20000,14000,28000,92,63,95,Africa
+Fiji,0,0,0,0,0,0,0,0,0,Western Pacific
+Finland,0,0,0,0,0,0,0,0,0,Europe
+France,0,1200,0,1200,1100,1300,0,0,0,Europe
+Gabon,1900,2700,72,2700,1900,3600,72,52,95,Africa
+Gambia,700,1000,68,1000,820,1300,68,54,86,Africa
+Georgia,0,0,0,0,0,0,0,0,0,Europe
+Germany,0,500,0,500,500,500,0,0,0,Europe
+Ghana,13 000,16000,79,16000,12000,21000,79,58,95,Africa
+Greece,0,0,0,0,0,0,0,0,0,Europe
+Guatemala,270,790,34,790,720,870,34,31,38,Americas
+Guinea,3300,5100,65,5100,3800,6600,65,48,84,Africa
+Guinea-Bissau,1000,2100,48,2100,1700,2500,48,38,58,Africa
+Guyana,160,200,89,200,200,500,89,67,95,Americas
+Haiti,4900,5900,83,5900,4700,6800,83,67,95,Americas
+Honduras,200,500,59,500,500,500,59,48,72,Americas
+Hungary,0,0,0,0,0,0,0,0,0,Europe
+Iceland,0,0,0,0,0,0,0,0,0,Europe
+India,13 200,0,0,0,0,0,0,0,0,South-East Asia
+Indonesia,1800,12000,15,12000,10000,14000,15,13,18,South-East Asia
+Iran (Islamic Republic of),310,500,81,500,200,840,81,41,95,Eastern Mediterranean
+Ireland,0,100,0,100,100,100,0,0,0,Europe
+Israel,0,100,0,100,100,100,0,0,0,Europe
+Italy,0,500,0,500,500,500,0,0,0,Europe
+Jamaica,400,500,95,500,500,500,95,95,95,Americas
+Japan,0,0,0,0,0,0,0,0,0,Western Pacific
+Jordan,0,0,0,0,0,0,0,0,0,Eastern Mediterranean
+Kazakhstan,360,610,59,610,550,660,59,54,65,Europe
+Kenya,57 500,63000,91,63000,49000,80000,91,70,95,Africa
+Kuwait,0,0,0,0,0,0,0,0,0,Eastern Mediterranean
+Kyrgyzstan,130,200,88,200,200,500,88,69,95,Europe
+Lao People's Democratic Republic,90,500,35,500,500,500,35,31,41,Western Pacific
+Latvia,0,0,0,0,0,0,0,0,0,Europe
+Lebanon,0,0,0,0,0,0,0,0,0,Eastern Mediterranean
+Lesotho,8200,11000,77,11000,8200,12000,77,59,89,Africa
+Liberia,1800,2000,93,2000,1500,2300,93,70,95,Africa
+Libya,60,200,63,200,100,200,63,56,69,Eastern Mediterranean
+Lithuania,0,0,0,0,0,0,0,0,0,Europe
+Luxembourg,0,0,0,0,0,0,0,0,0,Europe
+Madagascar,280,1100,25,1100,820,1600,25,19,36,Africa
+Malawi,47 100,45000,95,45000,34000,53000,95,80,95,Africa
+Malaysia,260,500,95,500,500,500,95,86,95,Western Pacific
+Maldives,0,0,0,0,0,0,0,0,0,South-East Asia
+Mali,2400,10000,24,10000,8300,13000,24,19,31,Africa
+Malta,0,0,0,0,0,0,0,0,0,Europe
+Mauritania,50,200,38,200,200,200,38,31,47,Africa
+Mauritius,110,100,95,100,100,100,95,95,95,Africa
+Mexico,0,0,0,0,0,0,0,0,0,Americas
+Mongolia,0,0,0,0,0,0,0,0,0,Western Pacific
+Montenegro,0,0,0,0,0,0,0,0,0,Europe
+Morocco,220,500,61,500,500,500,61,50,78,Eastern Mediterranean
+Mozambique,109 000,110000,95,110000,78000,140000,95,73,95,Africa
+Myanmar,4300,5400,80,5400,4700,6100,80,69,89,South-East Asia
+Namibia,12 100,10000,95,10000,8200,12000,95,92,95,Africa
+Nepal,150,500,51,500,500,500,51,43,60,South-East Asia
+Netherlands,0,0,0,0,0,0,0,0,0,Europe
+New Zealand,0,0,0,0,0,0,0,0,0,Western Pacific
+Nicaragua,120,200,90,200,200,200,90,73,95,Americas
+Niger,940,1600,58,1600,1400,2000,58,48,70,Africa
+Nigeria,43 700,100000,44,100000,65000,140000,44,28,62,Africa
+Norway,0,0,0,0,0,0,0,0,0,Europe
+Oman,40,0,0,0,0,0,0,0,0,Eastern Mediterranean
+Pakistan,320,3200,10,3200,2700,3800,10,8,12,Eastern Mediterranean
+Panama,190,500,92,500,200,500,92,83,95,Americas
+Papua New Guinea,960,1200,79,1200,910,1500,79,59,95,Western Pacific
+Paraguay,250,500,88,500,200,500,88,60,95,Americas
+Peru,930,1100,85,1100,880,1500,85,67,95,Americas
+Philippines,70,500,18,500,500,500,18,15,22,Western Pacific
+Poland,0,0,0,0,0,0,0,0,0,Europe
+Portugal,0,200,0,200,100,200,0,0,0,Europe
+Qatar,0,0,0,0,0,0,0,0,0,Eastern Mediterranean
+Republic of Korea,0,0,0,0,0,0,0,0,0,Western Pacific
+Republic of Moldova,180,500,73,500,200,500,73,54,95,Europe
+Republic of North Macedonia,0,0,0,0,0,0,0,0,0,Europe
+Romania,230,200,95,200,200,200,95,95,95,Europe
+Russian Federation,13 600,0,0,0,0,0,0,0,0,Europe
+Rwanda,8600,8100,95,8100,6000,9400,95,79,95,Africa
+Saudi Arabia,40,0,0,0,0,0,0,0,0,Eastern Mediterranean
+Senegal,1400,2200,65,2200,1800,2500,65,56,75,Africa
+Serbia,0,0,0,0,0,0,0,0,0,Europe
+Sierra Leone,4400,0,0,0,0,0,0,0,0,Africa
+Singapore,20,0,0,0,0,0,0,0,0,Western Pacific
+Slovakia,0,0,0,0,0,0,0,0,0,Europe
+Slovenia,0,0,0,0,0,0,0,0,0,Europe
+Somalia,90,500,19,500,500,730,19,14,31,Eastern Mediterranean
+South Africa,248 000,290000,87,290000,210000,350000,87,63,95,Africa
+South Sudan,5500,9900,56,9900,7200,13000,56,41,74,Africa
+Spain,0,500,0,500,200,500,0,0,0,Europe
+Sri Lanka,20,0,0,0,0,0,0,0,0,South-East Asia
+Sudan,100,2000,5,2000,760,3700,5,2,9,Eastern Mediterranean
+Suriname,90,100,95,100,100,100,95,84,95,Americas
+Sweden,0,0,0,0,0,0,0,0,0,Europe
+Switzerland,0,0,0,0,0,0,0,0,0,Europe
+Syrian Arab Republic,10,0,0,0,0,0,0,0,0,Eastern Mediterranean
+Tajikistan,220,500,46,500,500,560,46,39,56,Europe
+Thailand,3800,3900,95,3900,3200,4500,95,81,95,South-East Asia
+Timor-Leste,0,0,0,0,0,0,0,0,0,South-East Asia
+Togo,4300,5400,80,5400,4200,6200,80,62,92,Africa
+Trinidad and Tobago,0,0,0,0,0,0,0,0,0,Americas
+Tunisia,10,0,0,0,0,0,0,0,0,Eastern Mediterranean
+Turkey,0,0,0,0,0,0,0,0,0,Europe
+Turkmenistan,0,0,0,0,0,0,0,0,0,Europe
+Uganda,94 800,100000,93,100000,81000,120000,93,73,95,Africa
+Ukraine,2200,2200,95,2200,1900,2500,95,89,95,Europe
+United Arab Emirates,10,0,0,0,0,0,0,0,0,Eastern Mediterranean
+United Kingdom of Great Britain and Northern Ireland,0,0,0,0,0,0,0,0,0,Europe
+United Republic of Tanzania,77 000,83000,93,83000,62000,98000,93,70,95,Africa
+United States of America,0,0,0,0,0,0,0,0,0,Americas
+Uruguay,140,200,95,200,100,200,95,71,95,Americas
+Uzbekistan,540,1500,35,1500,1400,1600,35,33,38,Europe
+Venezuela (Bolivarian Republic of),410,0,0,0,0,0,0,0,0,Americas
+Viet Nam,1900,2400,81,2400,2000,2800,81,69,95,Western Pacific
+Yemen,30,500,13,500,200,500,13,8,20,Eastern Mediterranean
+Zambia,56 500,48000,95,48000,38000,57000,95,94,95,Africa
+Zimbabwe,59 600,63000,94,63000,48000,76000,94,71,95,Africa
